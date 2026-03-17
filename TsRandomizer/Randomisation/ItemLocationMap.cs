@@ -899,7 +899,7 @@ namespace TsRandomizer.Randomisation
 
 			areaName = "Lower Lake Serene";
 			Add(new ItemKey(7, 3, 328, 736), "Lake Serene (Lower): Fork Wet Top Lantern", null, LeftSideForestCaves & R.Swimming & LanternCube);
-			Add(new ItemKey(7, 3, 392, 1104), "Lake Serene (Lower): Fork Wet Lower Lantern", null, LeftSideForestCaves & R.Swimming & LanternCube);
+			Add(new ItemKey(7, 3, 392, 1104), "Lake Serene (Lower): Fork Wet Bottom Lantern", null, LeftSideForestCaves & R.Swimming & LanternCube);
 			Add(new ItemKey(7, 11, 184, 160), "Lake Serene (Lower): Not-So-Secret Left Lantern", null, LowerLakeSirine & OculusRift & LanternCube);
 			Add(new ItemKey(7, 11, 248, 160), "Lake Serene (Lower): Not-So-Secret Middle Lantern", null, LowerLakeSirine & OculusRift & LanternCube);
 			Add(new ItemKey(7, 11, 312, 160), "Lake Serene (Lower): Not-So-Secret Right Lantern", null, LowerLakeSirine & OculusRift & LanternCube);
@@ -1015,8 +1015,8 @@ namespace TsRandomizer.Randomisation
 			Add(new ItemKey(4, 5, 202, 497), "Castle Ramparts: Middle Hammer Bottom Lantern", null, CastleRamparts & LanternCube);
 			Add(new ItemKey(4, 5, 312, 264), "Castle Ramparts: Middle Hammer Top Right Lantern", null, CastleRamparts & LanternCube);
 			Add(new ItemKey(4, 5, 88, 264), "Castle Ramparts: Middle Hammer Top Left Lantern", null, CastleRamparts & LanternCube);
-			Add(new ItemKey(4, 6, 280, 104), "Castle Ramparts: Exit Top Left Lantern", null, CastleRamparts & LanternCube);
 			Add(new ItemKey(4, 6, 234, 561), "Castle Ramparts: Exit Bottom Left Lantern", null, CastleRamparts & LanternCube);
+			Add(new ItemKey(4, 6, 280, 104), "Castle Ramparts: Exit Top Left Lantern", null, CastleRamparts & LanternCube);
 			Add(new ItemKey(4, 6, 520, 104), "Castle Ramparts: Exit Top Right Lantern", null, CastleRamparts & LanternCube);
 			Add(new ItemKey(4, 6, 570, 561), "Castle Ramparts: Exit Bottom Right Lantern", null, CastleRamparts & LanternCube);
 			Add(new ItemKey(4, 7, 202, 497), "Castle Ramparts: Pedestal Stairs Bottom Lantern", null, CastleRamparts & LanternCube);
