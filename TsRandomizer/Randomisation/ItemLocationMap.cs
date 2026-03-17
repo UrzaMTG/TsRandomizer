@@ -769,7 +769,7 @@ namespace TsRandomizer.Randomisation
 			Add(new ItemKey(9, 14, 426, 157), "Sealed Caves (Xarion): Penultimate Hall More Left Lantern", null, SealedCaves & NeedSwimming(FloodsFlags.Xarion) & LanternCube);
 			Add(new ItemKey(9, 14, 634, 157), "Sealed Caves (Xarion): Penultimate Hall Left Lantern", null, SealedCaves & NeedSwimming(FloodsFlags.Xarion) & LanternCube);
 			Add(new ItemKey(9, 8, 282, 157), "Sealed Caves (Xarion): Last Chance Room Top Left Lantern", null, SealedCaves & LanternCube);
-			Add(new ItemKey(9, 8, 392, 348), "Sealed Caves (Xarion): Last Chance Room Middle Lantern", null, SealedCaves & & LanternCube);
+			Add(new ItemKey(9, 8, 392, 348), "Sealed Caves (Xarion): Last Chance Room Middle Lantern", null, SealedCaves & LanternCube);
 			Add(new ItemKey(9, 8, 392, 540), "Sealed Caves (Xarion): Last Chance Room Bottom Lantern", null, SealedCaves & NeedSwimming(FloodsFlags.Xarion) & LanternCube);
 			Add(new ItemKey(9, 8, 506, 157), "Sealed Caves (Xarion): Last Chance Room Top Right Lantern", null, SealedCaves & R.DoubleJump & LanternCube);
 
