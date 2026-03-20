@@ -1130,7 +1130,7 @@ namespace TsRandomizer.Randomisation
 			Add(new ItemKey(16, 15, 154, 886), "Ancient Pyramid: First Enemy Left Lantern", null, MidPyramid & LanternCube);
 			Add(new ItemKey(16, 15, 250, 886), "Ancient Pyramid: First Enemy Right Lantern", null, MidPyramid & LanternCube);
 			Add(new ItemKey(16, 1, 202, 1526), "Ancient Pyramid: Nightmare Stairway Bottom Lantern", null, RightPyramid & NeedSwimming(FloodsFlags.BackPyramid) & LanternCube);
-			Add(new ItemKey(16, 1, 2202, 166), "Ancient Pyramid: Nightmare Stairway Top Lantern", null, RightPyramid & NeedSwimming(FloodsFlags.BackPyramid) & LanternCube);
+			Add(new ItemKey(16, 1, 2202, 166), "Ancient Pyramid: Nightmare Stairway Top Lantern", null, RightPyramid & LanternCube);
 			Add(new ItemKey(16, 10, 202, 1526), "Ancient Pyramid: Upper-Left Stairway Before Conviction Lantern", null, MidPyramid & LanternCube);
 			Add(new ItemKey(16, 10, 2202, 166), "Ancient Pyramid: Upper-Left Stairway Top Lantern", null, MidPyramid & LanternCube);
 			Add(new ItemKey(16, 10, 634, 1494), "Ancient Pyramid: Upper-Left Stairway Bottom Lantern", null, MidPyramid & LanternCube);
