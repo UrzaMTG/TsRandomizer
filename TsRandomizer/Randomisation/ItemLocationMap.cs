@@ -814,11 +814,11 @@ namespace TsRandomizer.Randomisation
 			Add(new ItemKey(11, 35, 120, 1209), "Lab: Main Shaft Research Level Left Lantern", null, MainLabFlooded & LanternCube);
 			Add(new ItemKey(11, 35, 120, 169), "Lab: Main Shaft Exp. 13 Level Left Lantern", null, MainLab & LanternCube);
 			Add(new ItemKey(11, 35, 120, 537), "Lab: Main Shaft Genza Level Left Lantern", null, MainLab & LanternCube);
-			Add(new ItemKey(11, 35, 120, 905), "Lab: Main Shaft Lower Trash Level Lantern", null, MainLabFlooded & LanternCube);
+			Add(new ItemKey(11, 35, 120, 905), "Lab: Main Shaft Lower Trash Level Left Lantern", null, MainLabFlooded & LanternCube);
 			Add(new ItemKey(11, 35, 264, 169), "Lab: Main Shaft Exp. 13 Level Right Lantern", null, MainLab & LanternCube);
 			Add(new ItemKey(11, 35, 280, 1209), "Lab: Main Shaft Research Level Right Lantern", null, MainLabFlooded & LanternCube);
 			Add(new ItemKey(11, 35, 280, 537), "Lab: Main Shaft Genza Level Right Lantern", null, MainLab & LanternCube);
-			Add(new ItemKey(11, 35, 280, 905), "Lab: Main Shaft Lower Trash Level Lantern", null, MainLabFlooded & LanternCube);
+			Add(new ItemKey(11, 35, 280, 905), "Lab: Main Shaft Lower Trash Level Right Lantern", null, MainLabFlooded & LanternCube);
 			Add(new ItemKey(11, 4, 136, 169), "Lab: File Cabinet Left Lantern", null, UpperLab & LanternCube);
 			Add(new ItemKey(11, 4, 264, 169), "Lab: File Cabinet Right Lantern", null, UpperLab & LanternCube);
 			Add(new ItemKey(11, 22, 104, 169), "Lab: File Cabinet Staircase Top Left Lantern", null, UpperLab & LanternCube);
