@@ -1120,8 +1120,8 @@ namespace TsRandomizer.Randomisation
 
 			// Beyond Time
 			areaName = "Ancient Pyramid";
-			Add(new ItemKey(16, 0, 152, 128), "Ancient Pyramid: Entrance Lantern 1", null, PyramidEntrance & LanternCube);
-			Add(new ItemKey(16, 0, 247, 128), "Ancient Pyramid: Entrance Lantern 2", null, PyramidEntrance & LanternCube);
+			Add(new ItemKey(16, 0, 152, 128), "Ancient Pyramid: Entrance Left Lantern", null, PyramidEntrance & LanternCube);
+			Add(new ItemKey(16, 0, 247, 128), "Ancient Pyramid: Entrance Right Lantern", null, PyramidEntrance & LanternCube);
 			Add(new ItemKey(16, 2, 1370, 822), "Ancient Pyramid: Entrance Staircase Middle Lantern", null, PyramidEntrance & LanternCube);
 			Add(new ItemKey(16, 2, 202, 166), "Ancient Pyramid: Entrance Staircase Top Lantern", null, PyramidEntrance & LanternCube);
 			Add(new ItemKey(16, 2, 2202, 1526), "Ancient Pyramid: Rubble Lantern", null, PyramidEntrance & LanternCube);
